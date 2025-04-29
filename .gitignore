@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Except these two files
+!README.md
+!FlightStatus.pbix
