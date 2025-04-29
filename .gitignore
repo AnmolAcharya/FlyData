@@ -1,6 +1,7 @@
 # Ignore everything
 *
 
-# Except these two files
+# But include these specific files
+!.gitignore
 !README.md
 !FlightStatus.pbix
