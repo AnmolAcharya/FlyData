@@ -29,6 +29,7 @@ Tools & Tech:
 Power BI Desktop
 
 DAX Measures for % calculations
+![FlightsPowerBI](https://github.com/user-attachments/assets/6f81bc4f-521d-4b3e-9d9e-cd6f4eb6999a)
 
 Cleaned and modeled CSV data
 
