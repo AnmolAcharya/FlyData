@@ -1,5 +1,7 @@
 US Flight Performance Dashboard | Power BI Project
 
+![FlightsPowerBI](https://github.com/user-attachments/assets/6f81bc4f-521d-4b3e-9d9e-cd6f4eb6999a)
+
 This Power BI dashboard visualizes key performance metrics for over 2 million flights in the United States, enabling insights into airline delays, cancellations, and on-time performance patterns.
 
 Key Features:
@@ -29,7 +31,6 @@ Tools & Tech:
 Power BI Desktop
 
 DAX Measures for % calculations
-![FlightsPowerBI](https://github.com/user-attachments/assets/6f81bc4f-521d-4b3e-9d9e-cd6f4eb6999a)
 
 Cleaned and modeled CSV data
 
